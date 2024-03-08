@@ -1,0 +1,16 @@
+El capitulo 7 del libro habla de los sistemas dinamicos, en particular, la seccion 7.1
+Los ejercicios propuestos son los siguientes:
+
+Pagina: 177-178
+
+Consider the following one-parameter families of first order differential
+equations defined on :
+(a)  ̇x = μ − x − e−x;
+(b)  ̇x = x(μ + ex);
+(c)  ̇x = x − μx
+1+x2 .
+Bifurcation Theory 181
+Determine the critical points and the bifurcation values, plot vector
+fields on the line, and draw a bifurcation diagram in each case.
+Use an animation program in Python to show how  ̇x varies as μ in-
+creases from −4 to +4, for each of the differential equations in (a)–(c).
