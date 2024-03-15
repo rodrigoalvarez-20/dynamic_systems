@@ -1,0 +1,2 @@
+Revisar el documento y tratar de ejecutar el codigo en Python:
+https://medium.com/@celinesoeiro/izhikevich-neuron-a-python-approach-c6d6a68bb0eb
